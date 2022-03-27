@@ -1,7 +1,7 @@
 ## Table of Contents
 [ToDo List](#todo-list)
 
-[project 2](#project2)
+[Visualization Applet for a Computational Geometry Algorithm](#visualization-applet-for-a-computational-geometry-algorithm)
 
 [project 3](#project3)
 
@@ -11,8 +11,14 @@
 Used the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a to-do list where users can login, logout, add/edit/delete tasks, add a question-and-answer item, and navigate to any day. Lists were saved in the MongoDB database.
 
 
-### Project 2
-This is project 2.
+### Visualization Applet for a Computational Geometry Algorithm
+[github link](https://github.com/amykim21/amykim21.github.io)
+
+[project link](https://amykim21.github.io/)
+
+Used HTML, Javascript, CSS, and Github Pages to create a website which visualizes the Graham Scan Algorithm through animation.
+A user is able to draw points by clicking on the primal plane, and the corresponding dual line will automatically appear on the dual plane. The user can view step-by-step animations of the upper or lower hull. When the user shows the entire convex hull, the corresponding upper and lower envelopes appear on the dual plane.
+
 
 ### Project 3
 This is project 3.
