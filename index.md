@@ -1,10 +1,16 @@
-## Portfolio
+## Table of Contents
+[project 1](#project1)
+[project 2](#project2)
+[project 3](#project3)
 
-You can use the [editor on GitHub](https://github.com/amykim21/amyportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Project 1
+This is project 1.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project 2
+This is project 2.
 
-[project 1](#support-or-contact)
+### Project 3
+This is project 3.
 
 ### Markdown
 
