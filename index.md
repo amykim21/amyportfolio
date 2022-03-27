@@ -1,10 +1,12 @@
 ## Table of Contents
-[project 1](#project1)
+[ToDo List](#todo-list)
 [project 2](#project2)
 [project 3](#project3)
 
-### Project 1
-This is project 1.
+### ToDo List
+[github link](https://github.com/cse330-fall-2020/creativeproject-module7-455334)
+Used the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a to-do list where users can login, logout, add/edit/delete tasks, add a question-and-answer item, and navigate to any day. Lists were saved in the MongoDB database.
+
 
 ### Project 2
 This is project 2.
