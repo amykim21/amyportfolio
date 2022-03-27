@@ -6,7 +6,7 @@
 [project 3](#project3)
 
 ### ToDo List
-[github link](https://github.com/cse330-fall-2020/creativeproject-module7-455334) 
+[github link](https://github.com/amykim21/mern-creative-project) 
 
 Used the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a to-do list where users can login, logout, add/edit/delete tasks, add a question-and-answer item, and navigate to any day. Lists were saved in the MongoDB database.
 
