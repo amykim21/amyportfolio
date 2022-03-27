@@ -1,6 +1,8 @@
 ## Table of Contents
-[ToDo List](#todo-list) 
-[project 2](#project2) 
+[ToDo List](#todo-list)
+
+[project 2](#project2)
+
 [project 3](#project3)
 
 ### ToDo List
