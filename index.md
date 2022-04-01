@@ -1,4 +1,4 @@
-## Table of Contents
+## Amy Kim's Portfolio
 [ToDo List](#todo-list)
 
 [Visualization Applet for a Computational Geometry Algorithm](#visualization-applet-for-a-computational-geometry-algorithm)
