@@ -26,8 +26,6 @@ Used the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a to-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BnSIgB6N15k" title="Visualization Applet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![demo](https://github.com/amykim21/amyportfolio/blob/gh-pages/grahamscan_gif_video_2x_AdobeCreativeCloudExpress.gif)
-
 
 Used HTML, Javascript, CSS, and Github Pages to create a website which visualizes the Graham Scan Algorithm through animation.
 A user is able to draw points by clicking on the primal plane, and the corresponding dual line will automatically appear on the dual plane. The user can view step-by-step animations of the upper or lower hull. When the user shows the entire convex hull, the corresponding upper and lower envelopes appear on the dual plane.
