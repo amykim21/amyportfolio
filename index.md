@@ -24,6 +24,15 @@ Used the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a to-
 
 [project link](https://amykim21.github.io/)
 
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=BnSIgB6N15k&t=9s&ab_channel=Amy"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 ![demo](https://github.com/amykim21/amyportfolio/blob/gh-pages/grahamscan_gif_video_2x_AdobeCreativeCloudExpress.gif)
 
