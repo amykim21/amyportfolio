@@ -1,4 +1,11 @@
 ## Amy Kim's Portfolio
+
+## About Me
+Hi, I am a recent university graduate of Washington University in St. Louis, with a Bachelor’s in Computer Science in the McKelvey School of Engineering.
+
+## Skillset
+Java, Python, C, C++, MATLAB, Kotlin, Javascript, PHP, HTML, CSS, SQL, Node. JS and Socket.IO, MongoDB, Express.js, React.js, Node.js, vim 
+
 [ToDo List](#todo-list)
 
 [Visualization Applet for a Computational Geometry Algorithm](#visualization-applet-for-a-computational-geometry-algorithm)
