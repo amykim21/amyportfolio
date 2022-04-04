@@ -6,6 +6,7 @@ Hi, I am a recent university graduate of Washington University in St. Louis, wit
 ## Skillset
 Java, Python, C, C++, MATLAB, Kotlin, Javascript, PHP, HTML, CSS, SQL, Node. JS and Socket.IO, MongoDB, Express.js, React.js, Node.js, vim 
 
+## Table of Contents
 [ToDo List](#todo-list)
 
 [Visualization Applet for a Computational Geometry Algorithm](#visualization-applet-for-a-computational-geometry-algorithm)
