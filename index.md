@@ -17,7 +17,7 @@ Used the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a to-
 [project link](https://amykim21.github.io/)
 
 
-![demo](https://github.com/amykim21/amyportfolio/blob/gh-pages/grahamscan_gif_video_AdobeCreativeCloudExpress.gif)
+![demo](https://github.com/amykim21/amyportfolio/blob/gh-pages/grahamscan_gif_video_2x_AdobeCreativeCloudExpress.gif)
 
 
 Used HTML, Javascript, CSS, and Github Pages to create a website which visualizes the Graham Scan Algorithm through animation.
