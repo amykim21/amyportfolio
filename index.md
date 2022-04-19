@@ -7,11 +7,19 @@ Hi, I am a recent university graduate of Washington University in St. Louis, wit
 Java, Python, C, C++, MATLAB, Kotlin, Javascript, PHP, HTML, CSS, SQL, Node. JS and Socket.IO, MongoDB, Express.js, React.js, Node.js, vim 
 
 ## Table of Contents
+[Student Organizer](#student-organizer)
+
 [ToDo List](#todo-list)
 
 [Visualization Applet for a Computational Geometry Algorithm](#visualization-applet-for-a-computational-geometry-algorithm)
 
 [Web Browser Chatroom](#web-browser-chatroom)
+
+### Student Organizer
+[github link](https://github.com/wustlcse237sp20/project-mancini-felsheim-kim-237project)
+
+My team of 3 programmers used Java to create a Student Organizer using Kanban, Github’s organizational tool.  Features included a GUI, To-Do list, grade calculator, and schedule viewer.
+
 
 ### ToDo List
 [github link](https://github.com/amykim21/mern-creative-project) 
