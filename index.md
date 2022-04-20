@@ -18,6 +18,9 @@ Java, Python, C, C++, MATLAB, Kotlin, Javascript, PHP, HTML, CSS, SQL, Node. JS 
 ### Student Organizer
 [github link](https://github.com/wustlcse237sp20/project-mancini-felsheim-kim-237project)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KlwTVzSYV3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 My team of 3 programmers used Java to create a Student Organizer using Kanban, Github’s organizational tool.  Features included a GUI, To-Do list, grade calculator, and schedule viewer.
 
 
