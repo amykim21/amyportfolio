@@ -15,7 +15,9 @@ Java, Python, C, C++, MATLAB, Kotlin, Javascript, PHP, HTML, CSS, SQL, Spring Bo
 
 [Web Browser Chatroom](#web-browser-chatroom)
 
-[3D Graphics Ray Tracing](#3d-graphics-ray-tracing)
+[3D Graphics: Ray Tracing](#3d-graphics-ray-tracing)
+
+[Animation: Motion Capture](#animation-motion-capture)
 
 ### Student Organizer
 [github link](https://github.com/wustlcse237sp20/project-mancini-felsheim-kim-237project)
@@ -51,9 +53,12 @@ A user is able to draw points by clicking on the primal plane, and the correspon
 
 Used Node.JS and Socket.IO to create a chatroom where multiple users can create and delete chatrooms, chat with other users, and kick or ban other users.
 
-### 3D Graphics Ray Tracing
+### 3D Graphics: Ray Tracing
 [github link](https://github.com/amykim21/csci-580-project/tree/development)
 
 <img src="ray-tracing.png"/>
 
 Used C++ to implement the Ray Tracing Algorithm with reflection and refraction on a teapot.
+
+### Animation: Motion Capture
+Used C++ and Bezier interpolation to interpolate Euler Angles for keyframes of a skeleton.
