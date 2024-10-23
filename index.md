@@ -1,7 +1,7 @@
 ## Amy Kim's Portfolio
 
 ## About Me
-Hi, I am a recent university graduate of Washington University in St. Louis (WashU), with a Bachelor’s in Computer Science in the McKelvey School of Engineering.  I am currently pursuing a Master's degree at University of Southern California (USC).
+Hi, I am a software developer who graduated from Washington University in St. Louis (WashU) with a Bachelor’s in Computer Science.  I am currently pursuing a Master's degree at University of Southern California (USC).
 
 ## Skillset
 Java, Python, C, C++, MATLAB, Kotlin, Javascript, PHP, HTML, CSS, SQL, Spring Boot, PostgreSQL, Node. JS and Socket.IO, MongoDB, Express.js, React.js, Node.js, vim
@@ -53,5 +53,7 @@ Used Node.JS and Socket.IO to create a chatroom where multiple users can create 
 
 ### 3D Graphics: Ray Tracing
 [github link](https://github.com/amykim21/csci-580-project/tree/development)
+
 <img src="ray-tracing.png"/>
+
 Used C++ to implement the Ray Tracing Algorithm with reflection and refraction on a teapot.
