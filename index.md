@@ -1,10 +1,10 @@
 ## Amy Kim's Portfolio
 
 ## About Me
-Hi, I am a recent university graduate of Washington University in St. Louis, with a Bachelor’s in Computer Science in the McKelvey School of Engineering.
+Hi, I am a recent university graduate of Washington University in St. Louis (WashU), with a Bachelor’s in Computer Science in the McKelvey School of Engineering.  I am currently pursuing a Master's degree at University of Southern California (USC).
 
 ## Skillset
-Java, Python, C, C++, MATLAB, Kotlin, Javascript, PHP, HTML, CSS, SQL, Node. JS and Socket.IO, MongoDB, Express.js, React.js, Node.js, vim 
+Java, Python, C, C++, MATLAB, Kotlin, Javascript, PHP, HTML, CSS, SQL, Spring Boot, PostgreSQL, Node. JS and Socket.IO, MongoDB, Express.js, React.js, Node.js, vim
 
 ## Table of Contents
 [Student Organizer](#student-organizer)
@@ -14,6 +14,8 @@ Java, Python, C, C++, MATLAB, Kotlin, Javascript, PHP, HTML, CSS, SQL, Node. JS 
 [Visualization Applet for a Computational Geometry Algorithm](#visualization-applet-for-a-computational-geometry-algorithm)
 
 [Web Browser Chatroom](#web-browser-chatroom)
+
+[3D Graphics: Ray Tracing](#ray-tracing)
 
 ### Student Organizer
 [github link](https://github.com/wustlcse237sp20/project-mancini-felsheim-kim-237project)
@@ -49,3 +51,7 @@ A user is able to draw points by clicking on the primal plane, and the correspon
 
 Used Node.JS and Socket.IO to create a chatroom where multiple users can create and delete chatrooms, chat with other users, and kick or ban other users.
 
+### 3D Graphics: Ray Tracing
+[github link](https://github.com/amykim21/csci-580-project/tree/development)
+<img src="ray-tracing.png"/>
+Used C++ to implement the Ray Tracing Algorithm with reflection and refraction on a teapot.
