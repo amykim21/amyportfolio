@@ -37,7 +37,7 @@ Used the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a to-
 ### Visualization Applet for a Computational Geometry Algorithm
 [github link](https://github.com/amykim21/amykim21.github.io)
 
-[project link](https://amykim21.github.io/)
+[project link][(https://amykim21.github.io/)](https://amykim21.github.io/grahamscan/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BnSIgB6N15k" title="Visualization Applet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
